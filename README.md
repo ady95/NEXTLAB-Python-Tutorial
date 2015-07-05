@@ -35,4 +35,4 @@ python 1.flask.py
 - smooth_test.py : smooth 모듈 이용 예제
 
 [과제]
-- smooth_test.py 소스를 참고해서 touch_smooth.py에 savitzky_golay 알고리즘을 적용한 곡선 추가로 표시함
+- smooth_test.py 소스를 참고해서 touch_smooth.py에 savitzky_golay 알고리즘을 적용한 smooth 곡선을 graph에 추가로 표시함
