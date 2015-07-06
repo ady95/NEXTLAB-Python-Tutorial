@@ -1,6 +1,9 @@
 # NEXTLAB-Python-Tutorial
 Python Tutorial을 위한 예제 소스 및 과제
 
+###0. 사전 설치 안내
+[안내페이지](https://www.evernote.com/shard/s70/sh/cd8bf235-5d24-4291-9e61-78bd3693bf8f/43ecf5ecec9d0907)
+
 ###1.simple_webserver
 flask 프레임워크가 얼마나 간단하게 웹프로그래밍이 가능한지를 보여주는 예제임
 
